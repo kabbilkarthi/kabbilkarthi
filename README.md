@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kabbil GI</h1>
-<h3 align="center">Sr. Linux Admin / Aspiring DevOps Engineer</h3>
+<h3 align="center">Sr. Linux Admin / SRE </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabbilkarthi&label=Profile%20views&color=0e75b6&style=flat" alt="kabbilkarthi" /> </p>
 
-- 🌱 I’m currently learning **Docker, Ansible, Jenkins**
+- 🌱 I’m currently learning **Docker, Ansible, Jenkins, Kubernetes**
 - 📫 How to reach me **g.i.kabbil@gmail.com**
 - ⚡ Fun fact **I think I’m funny (or at least, my code thinks so)!**
 
