@@ -5,12 +5,15 @@
 
 ## 🚀 About Me
 
-- 🔧 Site Reliability Engineer with **6+ years of experience** (5 years relevant) in Linux infrastructure
-- ⚙️ Specialized in **automation, system reliability, and large-scale provisioning**
-- 🖥️ Hands-on experience managing **VMware, Azure, and AWS environments**
-- 🔁 Strong focus on **reducing manual effort using Ansible, Bash, and Python**
-- 📦 Built centralized provisioning using **PXE + Kickstart + Ansible Pull**
-
+* 🔧 Linux Engineer with **5.5+ years of experience** in enterprise Linux administration, production support, and infrastructure operations
+* 🚀 Experienced in **Site Reliability Engineering (SRE) practices**, incident management, RCA, MTTR reduction, and service reliability
+* ⚙️ Specialized in **automation, system reliability, and large-scale Linux infrastructure management**
+* 🖥️ Hands-on experience managing **5000+ virtual machines** across VMware and Azure environments
+* 🔁 Strong focus on reducing manual effort through **Ansible, Bash, and Python automation**
+* 📦 Built centralized Linux provisioning solutions using **PXE, Kickstart, and Ansible**
+* 📊 Experienced with **Grafana, Prometheus, Zabbix, and Nagios** for monitoring and observability
+* 🐳 Hands-on experience with **Docker** and actively building expertise in **Kubernetes**
+* 🏅 RHCE & RHCSA certified with a passion for Linux, automation, and platform engineering
 ---
 
 ## 🏗️ Featured Project
