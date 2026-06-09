@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kabbil GI</h1>
-<h3 align="center">Site Reliability Engineer | Linux Infrastructure | Automation (Ansible, Bash, Python)</h3>
+<h3 align="center">Senior Linux Engineer | SRE Practices | Ansible Automation | Kubernetes Enthusiast</h3>
 
 ---
 
