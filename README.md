@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Kabbil GI</h1>
-<h3 align="center">Senior Linux Engineer | SRE Practices | Ansible Automation | Kubernetes Enthusiast</h3>
+<h3 align="center">Senior Linux Engineer | Ansible Automation | Kubernetes Enthusiast</h3>
 
 ---
 
 ## 🚀 About Me
 
 * 🔧 Linux Engineer with **5.5+ years of experience** in enterprise Linux administration, production support, and infrastructure operations
-* 🚀 Experienced in **Site Reliability Engineering (SRE) practices**, incident management, RCA, MTTR reduction, and service reliability
 * ⚙️ Specialized in **automation, system reliability, and large-scale Linux infrastructure management**
 * 🖥️ Hands-on experience managing **5000+ virtual machines** across VMware and Azure environments
 * 🔁 Strong focus on reducing manual effort through **Ansible, Bash, and Python automation**
 * 📦 Built centralized Linux provisioning solutions using **PXE, Kickstart, and Ansible**
-* 📊 Experienced with **Grafana, Prometheus, Zabbix, and Nagios** for monitoring and observability
+* 📊 Experienced with **Grafana, Prometheus, Zabbix, and Nagios** for monitoring 
 * 🐳 Hands-on experience with **Docker** and actively building expertise in **Kubernetes**
-* 🏅 RHCE & RHCSA certified with a passion for Linux, automation, and platform engineering
+* 🏅 RHCE & DevOps certified with a passion for Linux, automation, and platform engineering
 ---
 
 ## 🏗️ Featured Project
